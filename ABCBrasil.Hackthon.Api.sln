@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCBrasil.Hackthon.Api", "ABCBrasil.Hackthon.Api\ABCBrasil.Hackthon.Api.csproj", "{5DFC9D63-3EF3-41F3-A0B0-B0417B9D6768}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABCBrasil.Hackthon.Api.UnitTests", "ABCBrasil.Hackthon.Api.UnitTests\ABCBrasil.Hackthon.Api.UnitTests.csproj", "{5389FA68-395C-40EC-9FC5-B1CE947CC287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DFC9D63-3EF3-41F3-A0B0-B0417B9D6768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFC9D63-3EF3-41F3-A0B0-B0417B9D6768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFC9D63-3EF3-41F3-A0B0-B0417B9D6768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFC9D63-3EF3-41F3-A0B0-B0417B9D6768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5389FA68-395C-40EC-9FC5-B1CE947CC287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5389FA68-395C-40EC-9FC5-B1CE947CC287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5389FA68-395C-40EC-9FC5-B1CE947CC287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5389FA68-395C-40EC-9FC5-B1CE947CC287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699C3B60-6BFF-4F3F-B892-0892F76617C0}
+	EndGlobalSection
+EndGlobal
